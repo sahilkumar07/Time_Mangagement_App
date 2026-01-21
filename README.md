@@ -1,5 +1,5 @@
 # Time Management App
-The main goal of this project is to make an all in one app which will help people manage their time.  
+The main goal of this project is to make an all in one app which will help people manage their time and do the work efficiently.  
 
 
     
